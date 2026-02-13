@@ -110,6 +110,6 @@ else if (TopicDecision.ToLower() == "food")
 
 else
 {
-    Console.WriteLine("Sorry, I can't help you today");
+    Console.WriteLine("Sorry, I can't help you today.");
 }
 
